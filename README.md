@@ -1,6 +1,6 @@
 🤘 Whats up, I’m @pizzapie000
 
-I work in IT and develop software in Godot.
+I work in IT on BYU-I's campus, develop videogames, and solve problems that noone has.
 
 Currently developing a Wii Tanks inspired game using Godot and a sub sandwich and drink shop in Roblox Studio, hoping to make a billion dollars and settle in the hills of Kentucky.
 If you want to see some finished work, check out Survive: Grenade Rain on Roblox.
